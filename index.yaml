@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   application:
   - apiVersion: v2
+    appVersion: 1.0.3
+    created: "2021-06-28T09:36:07.207025496Z"
+    description: A Helm chart for Kubernetes
+    digest: 583244be4f9574413e91e7286ff224ed85f007b5bce995b9c7b772b09fc98880
+    name: application
+    type: application
+    urls:
+    - https://github.com/OoioO/MARKET/releases/download/application-0.2.0/application-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 1.0.0
     created: "2021-06-28T08:36:18.451839656Z"
     description: A Helm chart for Kubernetes
