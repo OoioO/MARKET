@@ -7,7 +7,7 @@ jobs:
   lint-test:
     runs-on: ubuntu-latest
     env:
-      CT_TARGET_BRANCH: main
+      CT_TARGET_BRANCH: master
       CT_CHART_DIRS: charts
     steps:
       - name: Checkout
