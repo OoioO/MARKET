@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  application:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-28T08:36:18.451839656Z"
+    description: A Helm chart for Kubernetes
+    digest: b447f06cbf4bd0d9fff44b89bad8e4ffe1a1464f137aa9a3988281b7c4428dad
+    name: application
+    type: application
+    urls:
+    - https://github.com/OoioO/MARKET/releases/download/application-0.1.4/application-0.1.4.tgz
+    version: 0.1.4
+generated: "2021-06-28T08:36:18.237616631Z"
